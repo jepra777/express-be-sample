@@ -1,0 +1,22 @@
+{
+  "name": "FE-BE-Sample",
+  "version": "1.0.0",
+  "description": "Just an Sample of BackEnd Using Express",
+  "main": "index.js",
+  "author": "Jeremiah Prasetyo",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "sequelize": "^6.21.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
